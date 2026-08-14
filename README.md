@@ -75,6 +75,6 @@ simulated.
 
 ## Related repository
 
-- [`learning_statistical_learning`](https://github.com/alessiomartini/learning_statistical_learning)
+- [`ml-and-deep-learning-notebooks`](https://github.com/alessiomartini/ml-and-deep-learning-notebooks)
   — the same learn-by-implementing approach applied to machine learning and deep
   learning.
